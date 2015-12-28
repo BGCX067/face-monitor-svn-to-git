@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceDetector", "FaceDetector\FaceDetector.vcproj", "{0A106D8E-2155-4838-B720-B302A34E86C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceDetectApp", "FaceDetectApp\FaceDetectApp.vcproj", "{543DC2FB-3817-4693-B0C7-FC9FC2819115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A106D8E-2155-4838-B720-B302A34E86C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A106D8E-2155-4838-B720-B302A34E86C4}.Debug|Win32.Build.0 = Debug|Win32
+		{0A106D8E-2155-4838-B720-B302A34E86C4}.Release|Win32.ActiveCfg = Release|Win32
+		{0A106D8E-2155-4838-B720-B302A34E86C4}.Release|Win32.Build.0 = Release|Win32
+		{543DC2FB-3817-4693-B0C7-FC9FC2819115}.Debug|Win32.ActiveCfg = Debug|Win32
+		{543DC2FB-3817-4693-B0C7-FC9FC2819115}.Debug|Win32.Build.0 = Debug|Win32
+		{543DC2FB-3817-4693-B0C7-FC9FC2819115}.Release|Win32.ActiveCfg = Release|Win32
+		{543DC2FB-3817-4693-B0C7-FC9FC2819115}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
